@@ -1,6 +1,7 @@
 ## embedded development and full-stack. studying computer engineering and physics.
 ---
-current projects:
+current projects i'm contributing to:
+ - gps-heat-mapper (gps heatmapping project)
  - PicoCam (real-time embedded vision)
- - gps-ex (inter-device GPS mapping)
  - robot-dev-board (Pico derivative for autonomous robotics platforms)
+ - ssd1306 (pure C driver for the ssd1306)
